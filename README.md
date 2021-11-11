@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Stacy
-- 👀 I’m interested in a lots of things
-- 🌱 I’m currently learning NLTK
+- 👀 Thank you for checking out my GitHub
 
 <!---
-stacygap/stacygap is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+stacy_w/stacy_w is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
